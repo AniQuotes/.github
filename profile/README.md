@@ -29,7 +29,7 @@ A RESTful API serving anime quotes with multi-language support and image generat
 curl https://aniquotes.vercel.app/v1/random
 ```
 
-[Explore Documentation](https://github.com/AniQuotes/Documentation) • [Try Live Demo](https://aniquotes.vercel.app/v1/random)
+[Explore Documentation](https://github.com/AniQuotes/Documentation) • [Try Live Demo](https://aniquotesapi.vercel.app/v1/random)
 
 ---
 
@@ -64,7 +64,7 @@ Help us keep our services free and accessible to all:
 
 ## Contact Us
 
-**General Inquiries**: aniquotes@gmail.com  
+**General Inquiries**: aniquotesapi@gmail.com  
 
 ---
 
