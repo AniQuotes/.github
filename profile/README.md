@@ -20,7 +20,7 @@ Ani Quotes is dedicated to providing free, high-quality anime quote APIs to deve
 
 ### Anime Quotes API
 ![GitHub stars](https://img.shields.io/github/stars/Shineii86/AniQuotesAPI?style=for-the-badge)
-![API Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=API%20Status&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fanistars.vercel.app%2Fv1%2Frandom)
+![API Status](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=API%20Status&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Faniquotesapi.vercel.app)
 
 A RESTful API serving anime quotes with multi-language support and image generation capabilities.
 
