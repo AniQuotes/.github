@@ -1,10 +1,11 @@
 <p align="center"><a href="https://github.com/Shineii86/AniQuotesAPI"><img src="https://github.com/Shineii86/AniQuotesAPI/blob/main/assets/LogoSD.png" LOGO" width="200" height="200"/></a></p>
 
-<p align="center">
-    <a href="https://github.com/Shineii86"> Creator </a> •
-    <a href="https://github.com/AniQuotes/Doumentation"> Documentation </a> •
-    <a href="https://github.com/AniQuotes"> Organizations </a>
-</p>
+<div align="center"> <sup>
+    
+[Creator](https://github.com/Shineii86) • [API](https://github.com/AniQuotes/API) • [Privacy Policy](https://github.com/AniQuotes/PrivacyPolicy) • [Terms of Service](https://github.com/AniQuotes/ToS)
+
+</sup>
+</div>
 
 ## About Us
 Ani Quotes is dedicated to providing free, high-quality anime quote APIs to developers worldwide. Our mission is to build tools that inspire creativity and connect the global anime community through the power of memorable quotes.
