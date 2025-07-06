@@ -26,7 +26,7 @@ A RESTful API serving anime quotes with multi-language support and image generat
 
 ```bash
 # Get random quote
-curl https://aniquotes.vercel.app/v1/random
+curl https://aniquotesapi.vercel.app/v1/random
 ```
 
 [Explore Documentation](https://github.com/AniQuotes/Documentation) • [Try Live Demo](https://aniquotesapi.vercel.app/v1/random)
