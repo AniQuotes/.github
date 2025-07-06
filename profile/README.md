@@ -60,7 +60,6 @@ curl https://aniquotesapi.vercel.app/v1/random
 Help us keep our services free and accessible to all:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)](https://github.com/sponsors/AniQuotes)
-[![Open Collective](https://img.shields.io/badge/Open_Collective-Support-blue?style=for-the-badge)](https://opencollective.com/aniquotes)
 
 ## Contact Us
 
